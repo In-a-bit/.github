@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="/src/assets/inabit-logo.png" alt="Image" width="600" height="500" />
+    <a href="https://inabit.com/">
+      <img src="/src/assets/inabit-logo.png" alt="Image" width="500" height="400" />
+    </a>
 </p>
      
 # Inabit
