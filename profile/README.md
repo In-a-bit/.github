@@ -1,5 +1,6 @@
-<img src="/src/assets/inabit-logo.png"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%">
+<p align="center">
+    <img src="/src/assets/inabit-logo.png" alt="Image" width="600" height="500" />
+</p>
      
 # Inabit
 
