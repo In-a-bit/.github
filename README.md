@@ -1,4 +1,6 @@
-**![Logo](/src/assets/inabit-logo.png)**
+<p align="center">
+    <img src="/src/assets/inabit-logo.png" alt="Image" width="600" height="500" />
+</p>
 
 # Inabit Github Profile Repo 
 
