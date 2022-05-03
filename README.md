@@ -1,3 +1,4 @@
+![Logo](/src/assets/inabit-logo.png)
 # Inabit Github Profile Repo 
 
 ## Development
