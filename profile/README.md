@@ -1,6 +1,6 @@
-# Inabit.
+# Inabit
 
-When it counts.
+When it counts - [inabit](https://inabit.com/)
 
 * Simplicity
 * Innovation
